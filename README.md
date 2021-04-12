@@ -42,13 +42,13 @@
   - Location: India  🇮🇳 
   - Occupation: Student
   - Favourites:
-   - Colour: Leafy Green, Cyan
-   - Games: Minecraft 
-   - Languages(Spoken): English, Hindi, Sanskrit, Odia, Bengali, Bhojpuri
-   - Languages(Written): English, Hindi, Sanskrit
-   - Languages(Programming):
-    - Learning: Java, Javascript
-    - Known: Python 
+    - Colour: Leafy Green, Cyan
+    - Games: Minecraft 
+  - Languages(Spoken): English, Hindi, Sanskrit, Odia, Bengali, Bhojpuri
+  - Languages(Written): English, Hindi, Sanskrit
+  - Languages(Programming):
+     - Learning: Java, Javascript
+     - Known: Python 
   - Songs: Classical, Bollywood, Romantic, Pops, etc.
   - Hobbies:
     - Coding
