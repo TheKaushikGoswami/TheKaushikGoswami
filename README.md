@@ -16,27 +16,10 @@
   - <a href="https://instagram.com/thekaushikgoswami">@thekaushikgoswami</a>
   - Discord Id : `_TheKaushikG_#5300` 
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami)
-
-## My Repos (2)
-
-[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&repo=Johnson--A-Virtual-Assistant&show_owner=true)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
-
-[![About Me](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&repo=TheKaushikGoswami&show_owner=true)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
-
-
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code> 
-
-- 🔭 I’m currently working on A Multi-Purpose Discord Bot named SPIKE
-- 🌱 I’m currently learning javascript and Java
-- 💬 Ask me about Python
-- ⚡ About me: 
+- 🔭 I’m currently working on **A Multi-Purpose Discord Bot named SPIKE**
+- 🌱 I’m currently learning **Javascript and Java**
+- 💬 Ask me about **Python**
+- ⚡ **About me:** 
   - Name: Kaushik Goswami
   - Online name: TheKaushikGoswami
   - Age: 15 (05/08/2005)
@@ -57,3 +40,17 @@
     - Reading a lot of novels
     - Lurking Nature
 
+**Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami)
+
+## My Repos (2)
+
+[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&repo=Johnson--A-Virtual-Assistant&show_owner=true)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
+
+[![About Me](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&repo=TheKaushikGoswami&show_owner=true)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
