@@ -47,6 +47,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami)
 
 ## My Repos (1)
