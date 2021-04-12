@@ -1,14 +1,15 @@
 ### Hi there 👋, I'm Kaushik!
 
 <a href="https://twitter.com/Being_Goswami">
-  <img align="left" alt="TheKaushikGoswami | Twitter" width="64px" src="https://img.icons8.com/dusk/64/000000/twitter-circled.png"/>
+  <img align="left" alt="TheKaushikGoswami | Twitter" width="40px" src="https://img.icons8.com/dusk/64/000000/twitter-circled.png"/>
 </a>
 <a href="https://instagram.com/thekaushikgoswami">
-  <img align="left" alt="TheKaushikGoswami | Instagram" width="64px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
+  <img align="left" alt="TheKaushikGoswami | Instagram" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
 
 <br />
 <br />
+
 
 - **📫 How to reach me:** 
   - <a href="https://twitter.com/Being_Goswami">@Being_Goswami</a>
@@ -16,8 +17,8 @@
   - Discord Id : `_TheKaushikG_#5300` 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami)
 
 ## My Repos (1)
 
