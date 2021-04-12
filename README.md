@@ -54,4 +54,4 @@
 
 ## My Repos (1)
 
-[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&repo=Johnson--A-Virtual-Assistant&show_owner=true)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
+[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Johnson--A-Virtual-Assistant&show_owner=true)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
