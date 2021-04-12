@@ -51,8 +51,8 @@
     - Known: Python 
   - Songs: Classical, Bollywood, Romantic, Pops, etc.
   - Hobbies:
-   - Coding
-   - Minecraft
-   - Reading a lot of novels
-   - Lurking Nature
--->
+    - Coding
+    - Minecraft
+    - Reading a lot of novels
+    - Lurking Nature
+
