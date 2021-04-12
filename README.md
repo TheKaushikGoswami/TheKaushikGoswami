@@ -14,8 +14,8 @@
 - 📫 How to reach me: <a href="https://twitter.com/Being_Goswami">@Being_Goswami</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&layout=compact)
 
 ## My Repos
 
@@ -41,23 +41,23 @@
 - 🌱 I’m currently learning javascript and Java
 - 💬 Ask me about Python
 - ⚡ About me: 
-- Name: Kaushik Goswami
-  Online name: TheKaushikGoswami
-  Age: 15 (05/08/2005)
-  Location: India  :flag_in: 
-  Occupation: Student
-  Favourites:
-    - Colour: Leafy Green, Cyan
-    - Games: Minecraft 
-    - Languages(Spoken): English, Hindi, Sanskrit, Odia, Bengali, Bhojpuri
-    - Languages(Written): English, Hindi, Sanskrit
-    - Languages(Programming):
-     - Learning: Java, Javascript
-     - Known: Python
+  - Name: Kaushik Goswami
+  - Online name: TheKaushikGoswami
+  - Age: 15 (05/08/2005)
+  - Location: India  :flag_in: 
+  - Occupation: Student
+  - Favourites:
+   - Colour: Leafy Green, Cyan
+   - Games: Minecraft 
+   - Languages(Spoken): English, Hindi, Sanskrit, Odia, Bengali, Bhojpuri
+   - Languages(Written): English, Hindi, Sanskrit
+   - Languages(Programming):
+    - Learning: Java, Javascript
+    - Known: Python
   - Songs: Classical, Bollywood, Romantic, Pops, etc.
-  Hobbies:
-    - Coding
-    - Minecraft
-    - Reading a lot of novels
-    - Lurking Nature
+  - Hobbies:
+   - Coding
+   - Minecraft
+   - Reading a lot of novels
+   - Lurking Nature
 -->
