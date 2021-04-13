@@ -6,10 +6,13 @@
 <a href="https://instagram.com/thekaushikgoswami">
   <img align="left" alt="TheKaushikGoswami | Instagram" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
-
+<a href="https://discordapp.com/users/737903565313409095">
+  <img align="left" alt="_TheKaushikG_#5300 | Discord" width="40px"
+  src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
+</a>
 <br />
 <br />
-
+<br />
 
 - **📫 How to reach me:** 
   - <a href="https://twitter.com/Being_Goswami">@Being_Goswami</a>
@@ -50,8 +53,10 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami)
 
+## Wakatime Stats:
+
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
 
-## My Repos (1)
+## **My Repos (1)**
 
-[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Johnson--A-Virtual-Assistant&show_owner=true)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
+[![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Johnson--A-Virtual-Assistant&show_owner=false)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
