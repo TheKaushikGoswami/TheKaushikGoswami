@@ -47,6 +47,7 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/50/000000/html-5--v1.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/css3.png"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 
