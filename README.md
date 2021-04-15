@@ -34,7 +34,7 @@
   - Languages(Spoken): English, Hindi, Sanskrit, Odia, Bengali, Bhojpuri
   - Languages(Written): English, Hindi, Sanskrit
   - Languages(Programming):
-     - Learning: Java, Javascript
+     - Learning: HTML, CSS, Javascript
      - Known: Python 
   - Songs: Classical, Bollywood, Romantic, Pops, etc.
   - Hobbies:
