@@ -20,7 +20,7 @@
   - Discord Id : `_TheKaushikG_#5300` 
 
 - 🔭 I’m currently working on **A Multi-Purpose Discord Bot named SPIKE**
-- 🌱 I’m currently learning **Javascript and Java**
+- 🌱 I’m currently learning **HTML, CSS and Javascript (Front-end Development)**
 - 💬 Ask me about **Python**
 - ⚡ **About me:** 
   - Name: Kaushik Goswami
