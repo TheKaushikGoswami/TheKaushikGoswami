@@ -63,3 +63,5 @@
 ## **My Repos (1)**
 
 [![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Johnson--A-Virtual-Assistant&show_owner=false)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
+
+[![SPIKE](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=SPIKE-Discord-Bot&show_owner=false)](https://github.com/TheKaushikGoswami/SPIKE-Discord-Bot)
