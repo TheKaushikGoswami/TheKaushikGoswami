@@ -60,10 +60,13 @@
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
 
-## **My Repos (1)**
+## **My Repos (Owned-2, Forked-2)**
 
 [![Johnson](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Johnson--A-Virtual-Assistant&show_owner=false)](https://github.com/TheKaushikGoswami/Johnson--A-Virtual-Assistant)
 
 [![SPIKE](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=SPIKE-Discord-Bot&show_owner=false)](https://github.com/TheKaushikGoswami/SPIKE-Discord-Bot)
 
-[![SPIKE](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Speech-Recognition-Bot&show_owner=false)](https://github.com/TheKaushikGoswami/Speech-Recognition-Bot)
+[![Speech Recognition Bot](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Speech-Recognition-Bot&show_owner=false)](https://github.com/TheKaushikGoswami/Speech-Recognition-Bot)
+
+[![Dude Perfect](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Dude-Perfect&show_owner=false)]
+(https://github.com/TheKaushikGoswami/Dude-Perfect)
