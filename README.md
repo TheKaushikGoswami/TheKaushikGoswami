@@ -68,5 +68,4 @@
 
 [![Speech Recognition Bot](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Speech-Recognition-Bot&show_owner=false)](https://github.com/TheKaushikGoswami/Speech-Recognition-Bot)
 
-[![Dude Perfect](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Dude-Perfect&show_owner=false)]
-(https://github.com/TheKaushikGoswami/Dude-Perfect)
+[![Dude Perfect](https://github-readme-stats.vercel.app/api/pin/?username=TheKaushikGoswami&theme=dracula&repo=Dude-Perfect&show_owner=false)](https://github.com/TheKaushikGoswami/Dude-Perfect)
