@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kaushik!
 
-<center>
+<div align="center">
+
 <a href="https://twitter.com/Being_Goswami">
   <img align="middle" width="40px" src="https://img.icons8.com/dusk/64/000000/twitter-circled.png"/>
 </a>
@@ -12,12 +13,11 @@
   src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
 </a>
 <br>
-<br>
 </br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-2/737903565313409095.png">
 </center>
-<br />
-<br />
+</div>
+
 <br />
 
 - **📫 How to reach me:** 
@@ -50,29 +50,32 @@
     - Lurking Nature
 
 <hr>
-<center>
-Languages and Tools:  
-
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/50/000000/html-5--v1.png"></code>
-<code><img height="40" src="https://img.icons8.com/dusk/64/000000/css3.png"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"></code>
-<code><img height="40" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"></code>
-</center>
-
-<hr>
 <br>
-<center>
+<div align = "center">
+  <center>
+  Languages and Tools:  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+  <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/50/000000/html-5--v1.png"></code>
+  <code><img height="40" src="https://img.icons8.com/dusk/64/000000/css3.png"/></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+  <code><img height="40" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"></code>
+  <code><img height="40" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"></code>
+  </center>
 
-## Top Languages:
+  <hr>
+  <br>
+  <center>
 
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&theme=radical)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
 
-## Wakatime Stats:
+  ## Top Languages:
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami&theme=dark)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
+  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&theme=radical)
 
+  ## Wakatime Stats:
+
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami&theme=dark)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
+
+</div>
 
