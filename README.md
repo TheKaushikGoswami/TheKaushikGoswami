@@ -85,5 +85,16 @@
 
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami&theme=dark)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
 
+  ## Music Iz Lob <3
+
+  [![Spotify](https://github-reasme.vercel.app/api/spotify)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
+
 </div>
 
+<!-- AQAPW24lrFFlSTAOPMGx26QNACyYwuPBvBXdw-O6zxme_D8xEPiI5seVghDm4eJC2MrB5RUuV6W-PVvxdPnBAawFU7vO0Aum0RqhHqWSFGTX9d0oUUoN3Oh0nfrLAm0IOPp9IaZg6x52OhOrOwCc_V15Isvox4RMjv9Ve3avD-ASNjQg47tbNS_UNEAT3_QrY4XXtWYjTiZMNiUrllhzFAdo53MO-hDhhkHqmwzMCWGn2SCY1ys -->
+
+<!-- ZDc0NGMzOTkzMmQ0NGQzYWExNjBkNDdhZmVhNWI1NDQ6OWQ4Nzg4ZWFkZGU3NDE3ZDlmNzU4ZmVhYjZjZjU2ZmMK -->
+
+<!-- refresh token
+
+AQAUrmiT3yF0-oRL4lJMFtoj9Be1BL0ZKMvyndHpGx1rO7lc0Zchh3Q9V602OP426lvzIFWjvjU0tSsXpJpypuH5JaN1XTfP-EZRFCmTWICDQCbnq1iGAgUjBDgrYHKnNfI -->
