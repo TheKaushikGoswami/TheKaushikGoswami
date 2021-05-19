@@ -18,9 +18,10 @@
 <img align="middle" src="https://discord.c99.nl/widget/theme-2/737903565313409095.png">
 <br>
 <br>
+<p> <a href="https://twitter.com/being_goswami" target="blank"><img src="https://img.shields.io/twitter/follow/being_goswami?logo=twitter&style=for-the-badge" alt="being_goswami" /></a> </p>
 <br>
-  
-  ![](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square)
 
 </center>
 </div>
@@ -63,7 +64,12 @@
   <center>
   Languages and Tools:  
 
-  <p> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <p> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <img height="40" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png">
   <img height="40" src="https://img.icons8.com/fluent/96/000000/sublime-text.png">
   </p>
@@ -87,14 +93,5 @@
 
   ## Music Iz Lob <3
 
-  [![Spotify](https://github-reasme.vercel.app/api/spotify)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
-
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 </div>
-
-<!-- AQAPW24lrFFlSTAOPMGx26QNACyYwuPBvBXdw-O6zxme_D8xEPiI5seVghDm4eJC2MrB5RUuV6W-PVvxdPnBAawFU7vO0Aum0RqhHqWSFGTX9d0oUUoN3Oh0nfrLAm0IOPp9IaZg6x52OhOrOwCc_V15Isvox4RMjv9Ve3avD-ASNjQg47tbNS_UNEAT3_QrY4XXtWYjTiZMNiUrllhzFAdo53MO-hDhhkHqmwzMCWGn2SCY1ys -->
-
-<!-- ZDc0NGMzOTkzMmQ0NGQzYWExNjBkNDdhZmVhNWI1NDQ6OWQ4Nzg4ZWFkZGU3NDE3ZDlmNzU4ZmVhYjZjZjU2ZmMK -->
-
-<!-- refresh token
-
-AQAUrmiT3yF0-oRL4lJMFtoj9Be1BL0ZKMvyndHpGx1rO7lc0Zchh3Q9V602OP426lvzIFWjvjU0tSsXpJpypuH5JaN1XTfP-EZRFCmTWICDQCbnq1iGAgUjBDgrYHKnNfI -->
