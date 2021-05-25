@@ -93,5 +93,6 @@
 
   ## Music Iz Lob <3
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&redirect=true)
+  [![Spotify](https://github-readme-kaushik.vercel.app/api/spotify)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
+
 </div>
