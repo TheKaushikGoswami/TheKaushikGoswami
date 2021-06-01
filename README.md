@@ -72,12 +72,7 @@
   <img height="40" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png">
   <img height="40" src="https://img.icons8.com/fluent/96/000000/sublime-text.png">
   </p>
-  
-  </center>
-
   <hr>
-  <br>
-  <center>
   <h2> Some Nerdy Stats:
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&theme=dark" alt="thekaushikgoswami" /></p>
