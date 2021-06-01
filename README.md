@@ -74,7 +74,7 @@
   </p>
   <hr>
   <h2> Some Nerdy Stats:
-
+  <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&theme=dark" alt="thekaushikgoswami" /></p>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
