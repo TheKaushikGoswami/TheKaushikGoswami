@@ -59,7 +59,6 @@
     - Lurking Nature
 
 <hr>
-<br>
 <div align = "center">
   <center>
   Languages and Tools:  
@@ -79,19 +78,18 @@
   <hr>
   <br>
   <center>
+  <h2> Some Nerdy Stats:
+
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&theme=dark" alt="thekaushikgoswami" /></p>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
 
-  ## Top Languages:
 
   ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&theme=radical)
 
-  ## Wakatime Stats:
-
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKaushikGoswami&theme=dark)](https://github.com/TheKaushikGoswami/TheKaushikGoswami)
 
-  ## Music Iz Lob <3
+  <h2> Mujic iz Lob <3 
 
   [![Spotify](https://github-readme-kaushik.vercel.app/api/spotify)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
 
