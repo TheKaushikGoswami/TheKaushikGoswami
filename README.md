@@ -57,6 +57,9 @@
     - Minecraft
     - Reading a lot of novels
     - Lurking Nature
+  
+  <br>
+  <img src= ./banner.png>
 
 <hr>
 <div align = "center">
