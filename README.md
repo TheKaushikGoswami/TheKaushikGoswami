@@ -59,7 +59,7 @@
     - Lurking Nature
   
   <br>
-  <img src= ./banner.png>
+  <img src= ./media//banner.png>
 
 <hr>
 <div align = "center">
