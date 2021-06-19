@@ -18,10 +18,9 @@
 <img align="middle" src="https://discord.c99.nl/widget/theme-2/737903565313409095.png">
 <br>
 <br>
-<p> <a href="https://twitter.com/being_goswami" target="blank"><img src="https://img.shields.io/twitter/follow/being_goswami?logo=twitter&style=for-the-badge" alt="being_goswami" /></a> </p>
-<br>
+<p> <a href="https://twitter.com/being_goswami" target="blank"><img src="https://img.shields.io/twitter/follow/being_goswami?logo=twitter&style=for-the-badge" alt="being_goswami" /></a> </p> 
 
-![](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=for-the-badge)
 
 </center>
 </div>
