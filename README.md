@@ -15,18 +15,16 @@
 <hr>
 <p>
 <h3> 🛠️Languages & Tools </h3>
-<center>
+
   <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src = "./media//css3.png"> </a>
   <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src = "./media//html-5.png"> </a>
   <a href = "https://heroku.com"> <img src = "./media//heroku.png"> </a>
   <a href = "https://python.org"> <img src = "./media//python.png"> </a>
   <a href = "https://https://code.visualstudio.com/"> <img src = "./media//vs-code.png"> </a>
-</center>
 </p>
 <hr>
 
 <p>
-<center>
 <h3> 🔖 Some Statistics </h3>
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=CE5277&ring=CE5277&hide_border=true)
