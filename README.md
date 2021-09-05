@@ -5,7 +5,7 @@
 🎨 [He/Him] • Indian • Self-Passionate Enthusiast • Student <br>
 ⌨️ Python • Learning CSS/HTML alongside JS • Visual Studio Code <br>
 🕐 Discord • Music • Anime • Code • Games <br>
-🤝 I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. <br>
+🤝 I read, I write; I think, I dream; I talk, I listen. <br>
 
 ### 📬 Contact Me: <br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-2/737903565313409095.png">
