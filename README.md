@@ -28,6 +28,7 @@
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=CE5277&ring=CE5277&hide_border=true) <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=CE5277&title_color=CE5277&hide_border=true) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rwu8m7m34mit13j931l5618p5&count=1)
 </p>
 </div>
