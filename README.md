@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaushik!
-<img src= ./media//banner.jpg> <!-- Banner Here-->
+<img src= ./media//banner.gif> <!-- Banner Here-->
 <div align="center">
 <p>
 🎨 [He/Him] • Indian • Self-Passionate Enthusiast • Student & Dev <br>
@@ -26,9 +26,9 @@
 <p>
 <h2> 🔖 Some Statistics </h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=CE5277) <br> <br>
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=CE5277&ring=CE5277&hide_border=true) <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=CE5277&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=c322fe) <br>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=c322fe&ring=c322fe&hide_border=true) <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rwu8m7m34mit13j931l5618p5&count=1)
 
