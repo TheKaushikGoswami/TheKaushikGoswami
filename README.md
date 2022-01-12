@@ -12,10 +12,10 @@
 </p>
 
 <hr>
+
 <p>
 <details>
-
-<summary> <h2> 🔖 Some Statistics </h2></summary>
+<summary style="font-size:20px"> 🔖 Some Statistics </summary>
 <a href="https://github.com/TheKaushikGoswami">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=c322fe) <br>
@@ -24,6 +24,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
 </a>
 </details>
+<hr>
+
+## 🎴 Spotify Recently Played
+<br>
 <a href="https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rwu8m7m34mit13j931l5618p5&count=1)
