@@ -13,7 +13,9 @@
 
 <hr>
 <p>
-<h2> 🔖 Some Statistics </h2>
+<details>
+
+<summary> <h2> 🔖 Some Statistics </h2></summary>
 <a href="https://github.com/TheKaushikGoswami">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=c322fe) <br>
@@ -21,7 +23,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
 </a>
+</details>
 <a href="https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5">
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rwu8m7m34mit13j931l5618p5&count=1)
 </a>
 </p>
