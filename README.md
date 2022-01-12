@@ -15,7 +15,7 @@
 
 <p>
 <details>
-<summary style="font-size:20px"> 🔖 Some Statistics </summary>
+<summary style="font-size:40px"> 🔖 Some Statistics </summary>
 <a href="https://github.com/TheKaushikGoswami">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=c322fe) <br>
