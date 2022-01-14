@@ -4,6 +4,7 @@
 <p><em>A 16 years old student and self-taught developer from India, currently studying at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
+
 [![Twitter](https://img.shields.io/badge/Being_Goswami-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
 [![Instagram](https://img.shields.io/badge/thekaushikgoswami-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
 [![Pinterest](https://img.shields.io/badge/TheKaushikGoswami-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami)
@@ -12,7 +13,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)
-[![GitHub](https://img.shields.io/badge/TheKaushikGoswami-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami)
 
 
