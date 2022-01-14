@@ -1,36 +1,57 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaushik!
-<img src= ./media//banner.gif> <!-- Banner Here-->
-<div align="center">
-<p>
-🎨 [He/Him] • INFP-T • Student & Self-Passionate Dev <br>
-⌨️ Python • Learning Front-end • Visual Studio Code <br>
-🕐 Discord • Music • Quora • Anime • Code • GitHub <br>
-🤝 I read, I write; I think, I dream; I talk, I listen. <br>
+<h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaushik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-### 📬 Contact Me: <br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-2/737903565313409095.png">
-</p>
+<p><em>A 16 years old student and self-taught developer from India, currently studying at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
 
-<hr>
+[![Twitter](https://img.shields.io/badge/Being_Goswami-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
+[![Instagram](https://img.shields.io/badge/thekaushikgoswami-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)
+[![Pinterest](https://img.shields.io/badge/TheKaushikGoswami-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami) </br>
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
+[![Discord](https://img.shields.io/badge/_TheKaushikG_🎴-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WCewJGmb32)
+[![GitHub](https://img.shields.io/badge/TheKaushikGoswami-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami) </br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami)
 
-<p>
-<details>
-<summary style="font-size:40px"> 🔖 Some Statistics </summary>
-<a href="https://github.com/TheKaushikGoswami">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=c322fe) <br>
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekaushikgoswami&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=c322fe&ring=c322fe&hide_border=true) <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheKaushikGoswami&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
-</a>
-</details>
-<hr>
 
-## 🎴 Spotify Recently Played
-<br>
-<a href="https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rwu8m7m34mit13j931l5618p5&count=1)
-</a>
-</p>
-</div>
+```python
+from world import love
+
+class HumanBeing:
+
+    def __init__(self):
+        self.name = "Kaushik Goswami"
+        self.username = ["TheKaushikGoswami", "_TheKaushikG_"]
+        self.pronouns = ["He", "Him"]
+        self.role = "Student"
+        self.code = ["Python", "Javascript", "CSS", "HTML"]
+        self.askMeAbout = ["tech", "linux", "discord", "discord bots", "anime"]
+        self.technologies = {
+            "frontEnd" : ["HTML", "CSS"],
+            "databases" : ["mongo", "MySql"]
+            "misc" : "heroku", "AWS", "ubuntu"
+        }
+        self.currentFocus = "Building Open-Source Discord Bots"
+        self.funFact = "नातिक्रान्तानि शोचेत प्रस्तुतान्यनागतानि चित्यानि| 🎴"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = HumanBeing()
+me.say_hi()
+love.everyone()
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> :D
+
+---
+
+<span align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5) </br>
+[![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=for-the-badge&color=orange)](https://github.com/TheKaushikGoswami)
+</span>
