@@ -6,13 +6,13 @@
 
 [![Twitter](https://img.shields.io/badge/Being_Goswami-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
 [![Instagram](https://img.shields.io/badge/thekaushikgoswami-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)
-[![Pinterest](https://img.shields.io/badge/TheKaushikGoswami-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami) </br>
+[![Pinterest](https://img.shields.io/badge/TheKaushikGoswami-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami)
+[![Discord](https://img.shields.io/badge/_TheKaushikG_🎴-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WCewJGmb32)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
-[![Discord](https://img.shields.io/badge/_TheKaushikG_🎴-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WCewJGmb32)
-[![GitHub](https://img.shields.io/badge/TheKaushikGoswami-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami) </br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)
+[![GitHub](https://img.shields.io/badge/TheKaushikGoswami-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami)
 
 
