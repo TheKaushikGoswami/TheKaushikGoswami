@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaushik!
-<img src= ./media//banner.gif> <!-- Banner Here-->
+<img src= ../media//Banner.gif> <!-- Banner Here-->
 <div align="center">
 <p>
 🎨 [He/Him] • INFP-T • Student & Self-Passionate Dev <br>
