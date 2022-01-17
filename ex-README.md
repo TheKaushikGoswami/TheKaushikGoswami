@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaushik!
-<img src=https://github.com/TheKaushikGoswami/TheKaushikGoswami/blob/%E3%83%84%E3%83%A6%E3%83%AA%E3%82%AB%E3%83%8A%E3%82%AA/media/Banner.gif align="center"> <!-- Banner Here-->
+<img align="middle" src=https://github.com/TheKaushikGoswami/TheKaushikGoswami/blob/%E3%83%84%E3%83%A6%E3%83%AA%E3%82%AB%E3%83%8A%E3%82%AA/media/Banner.gif> <!-- Banner Here-->
 <div align="center">
 <p>
 🎨 [He/Him] • INFP-T • Student & Self-Passionate Dev <br>
