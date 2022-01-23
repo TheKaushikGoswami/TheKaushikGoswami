@@ -34,10 +34,10 @@ class HumanBeing:
         self.askMeAbout = ["tech", "linux", "discord", "discord bots", "anime"]
         self.technologies = {
             "frontEnd" : ["HTML", "CSS"],
-            "databases" : ["mongo", "MySql"],
+            "databases" : ["mongoDB", "MySql"],
             "misc" : ["heroku", "AWS", "ubuntu"]
         }
-        self.currentFocus = "Building Open-Source Discord Bots"
+        self.currentFocus = "Learning Web Development"
         self.funFact = "नातिक्रान्तानि शोचेत प्रस्तुतान्यनागतानि चित्यानि| 🎴"
 
     def say_hi(self):
