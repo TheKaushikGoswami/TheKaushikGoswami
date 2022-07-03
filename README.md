@@ -1,7 +1,7 @@
 
-<h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Kaushik! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi <img src="./assets/wave.gif" width="25">, I'm Kaushik! <img src="./assets/peeky_cat.gif" width="50"></h2>
 
-<p><em>A 16 years old student and self-taught developer from India, currently high-schooling at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>A 16 years old student and self-taught developer from India, currently high-schooling at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
@@ -17,7 +17,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thekaushikgoswami)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekaushikgoswami)
 
-### <img src="./assets/kawaii_cat.png" height="50"> A little more about me...  
+### <img src="./assets/flying_cat.gif" width="50"> A little more about me...  
 
 ```python
 from world import love
