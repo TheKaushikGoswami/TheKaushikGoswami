@@ -1,7 +1,7 @@
 
 <h2> Hi <img src="./assets/wave.gif" width="25">, I'm Kaushik! <img src="./assets/peeky_cat.gif" width="50"></h2>
 
-<p><em>A 16 years old student and self-taught developer from India, currently high-schooling at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
+<p><em>A 17 years old student and self-taught developer from India, currently high-schooling at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
