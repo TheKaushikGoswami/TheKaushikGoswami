@@ -1,7 +1,7 @@
 
 <h2> Hi <img src="./assets/wave.gif" width="25">, I'm Kaushik! <img src="./assets/peeky_cat.gif" width="50"></h2>
 
-<p><em>A 17 years old student and self-taught developer from India, currently high-schooling at <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
+<p><em>A 17 years old student and self-taught developer from India, high-schooled from <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
 </em></p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
@@ -30,14 +30,14 @@ class HumanBeing:
         self.pronouns = ["He", "Him"]
         self.role = "Student"
         self.code = ["Python", "Javascript", "CSS", "HTML"]
-        self.askMeAbout = ["tech", "linux", "discord", "discord bots", "anime"]
+        self.askMeAbout = ["tech", "linux", "discord", "discord bots", "anime", "web series"]
         self.technologies = {
             "frontEnd" : ["HTML", "CSS"],
             "databases" : ["mongoDB", "MySql"],
             "misc" : ["heroku", "AWS", "ubuntu"]
         }
-        self.currentFocus = "Learning Web Development"
-        self.funFact = "नातिक्रान्तानि शोचेत प्रस्तुतान्यनागतानि चित्यानि| 🎴"
+        self.currentFocus = "Competitive Examinations :o"
+        self.funFact = "🌼|| कृष्णं सदा सहायते ||🌼"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -47,7 +47,7 @@ me.say_hi()
 love.everyone()
 ```
 
-<img src="./assets/hug.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> :D
+<img src="./assets/hug.png" width="60"> <em><b>I maybe late to respond</b> but if you wanted to say "Hi", <b>Hello! How are you?</b></em> :D
 
 ---
 
