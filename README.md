@@ -12,7 +12,6 @@ Welcome to my coding world! 🚀
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami)
-[![Discord](https://img.shields.io/badge/Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MFpy66jWFA)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami) <br>
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
@@ -80,7 +79,7 @@ I'm always eager to collaborate on exciting projects and connect with fellow dev
 <!--- Footer image and visitor count --->
 
 <p align="center">
-  <img src="https://i.ibb.co/9yvsZhZ/Hindustan.png" alt="Footer Image" height="100">
+  <img src="https://i.ibb.co/9yvsZhZ/Hindustan.png" alt="Footer Image">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=orange" alt="Profile Views">
