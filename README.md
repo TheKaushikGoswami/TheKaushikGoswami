@@ -80,7 +80,7 @@ I'm always eager to collaborate on exciting projects and connect with fellow dev
 <!--- Footer image and visitor count --->
 
 <p align="center">
-  <img src="https://i.ibb.co/9yvsZhZ/Hindustan.png" alt="Footer Image">
+  <img src="https://i.ibb.co/9yvsZhZ/Hindustan.png" alt="Footer Image" height="100">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=orange" alt="Profile Views">
