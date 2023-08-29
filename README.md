@@ -1,8 +1,13 @@
 
 <h2> Hi <img src="./assets/wave.gif" width="25">, I'm Kaushik! <img src="./assets/peeky_cat.gif" width="50"></h2>
 
-<p><em>A 17 years old student and self-taught developer from India, high-schooled from <a href="https://sainikschoolpurulia.com">Sainik School Purulia</a> <img src="./assets/graduation.gif" width="30"></br>
-</em></p>
+<!-- Short Introduction -->
+
+Welcome to my coding world! 🚀
+<br> I'm an enthusiastic 18-year-old student and self-taught developer from India, currently pursuing my B.Tech CSE at [Geeta University](https://geetauniversity.edu.in). <img src="./assets/graduation.gif" width="25">
+<br> Exploring the fascinating realms of technology and creating exciting projects is my passion! 💻
+
+<!-- Badges -->
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Being_Goswami)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami) 
@@ -12,12 +17,10 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thekaushikgoswami)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekaushikgoswami)
 
-### <img src="./assets/flying_cat.gif" width="50"> A little more about me...  
+### 🌟 A little more about me...
 
 ```python
 from world import love
@@ -26,33 +29,59 @@ class HumanBeing:
 
     def __init__(self):
         self.name = "Kaushik Goswami"
-        self.username = ["TheKaushikGoswami", "_TheKaushikG_"]
         self.pronouns = ["He", "Him"]
-        self.role = "Student"
+        self.role = "Student & Developer"
         self.code = ["Python", "Javascript", "CSS", "HTML"]
-        self.askMeAbout = ["tech", "linux", "discord", "discord bots", "anime", "web series"]
+        self.tools = ["VSCode", "Git", "GitHub"]
+        self.askMeAbout = ["tech", "linux", "web development", "discord", "anime"]
         self.technologies = {
-            "frontEnd" : ["HTML", "CSS"],
-            "databases" : ["mongoDB", "MySql"],
-            "misc" : ["heroku", "AWS", "ubuntu"]
+            "frontEnd": ["HTML", "CSS", "JavaScript"],
+            "backEnd": ["Python", "Node.js"],
+            "databases": ["MongoDB", "MySQL"],
+            "cloud": ["Heroku", "AWS"],
+            "misc": ["Ubuntu", "Raspberry Pi"]
         }
-        self.currentFocus = "Competitive Examinations :o"
-        self.funFact = "🌼|| कृष्णं सदा सहायते ||🌼"
+        self.currentFocus = "Learning C/C++ and exploring AI 🚀"
+        self.funFact = "🌼|| Coding is my meditation, and bugs are my puzzles! ||🌼"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for stopping by! Let's create something awesome together!")
 
-me = HumanBeing()
-me.say_hi()
+coder = HumanBeing()
+coder.say_hi()
 love.everyone()
 ```
 
-<img src="./assets/hug.png" width="60"> <em><b>I maybe late to respond</b> but if you wanted to say "Hi", <b>Hello! How are you?</b></em> :D
+---
+
+## 📈 GitHub Stats and Top Languages
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheKaushikGoswami&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
-<span align="center">
+<!--- Let's Connect section --->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5) </br>
-[![Profile Views](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=for-the-badge&color=orange)](https://github.com/TheKaushikGoswami)
-</span>
+## 🤝 Let's Connect
+
+I'm always eager to collaborate on exciting projects and connect with fellow developers and tech enthusiasts like you! Feel free to reach out and say hi. <i>You can find me on Discord or drop me an email at thekaushikgoswami@gmail.com.</i> <br>
+
+<p align="center">
+    <a href="https://discord.com/users/737903565313409095">
+        <img src="https://lanyard-profile-readme.vercel.app/api/737903565313409095" align="center">
+    </a>
+</p>
+
+<!--- Footer image and visitor count --->
+
+<p align="center">
+  <img src="https://i.ibb.co/9yvsZhZ/Hindustan.png" alt="Footer Image">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=flat-square&color=orange" alt="Profile Views">
+</p>
