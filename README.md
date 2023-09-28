@@ -56,7 +56,7 @@ love.everyone()
 ## 📈 GitHub Stats and Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheKaushikGoswami&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-ebon-xi.vercel.app/?user=TheKaushikGoswami&theme=radical" alt="GitHub Streak">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
