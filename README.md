@@ -35,13 +35,14 @@ class HumanBeing:
         self.askMeAbout = ["tech", "linux", "web development", "discord", "anime"]
         self.technologies = {
             "frontEnd": ["HTML", "CSS", "JavaScript"],
-            "backEnd": ["Python", "Node.js"],
+            "backEnd": ["Python", "NodeJS"],
             "databases": ["MongoDB", "MySQL"],
             "cloud": ["Heroku", "AWS"],
-            "misc": ["Ubuntu", "Raspberry Pi"]
+            "frameworks": ["Bootstrap", "ReactJS", "Flask", "Django"],
+            "misc": ["Ubuntu", "Raspberry Pi", "Arduino"]
         }
-        self.currentFocus = "Learning C/C++ and exploring AI 🚀"
-        self.funFact = "🌼|| Coding is my meditation, and bugs are my puzzles! ||🌼"
+        self.currentFocus = "Learning NextJS and exploring AI 🚀"
+        self.funFact = "🌼|| लगाव ही पीड़ा है, करुणा ही क्रूरता है और अंत ही आरंभ है ||🌼"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's create something awesome together!")
