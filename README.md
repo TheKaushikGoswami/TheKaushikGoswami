@@ -4,7 +4,7 @@
 <!-- Short Introduction -->
 
 Welcome to my coding world! 🚀
-<br> I'm an enthusiastic 18-year-old student and self-taught developer from India, currently pursuing my B.Tech CSE at [Geeta University](https://geetauniversity.edu.in). <img src="./assets/graduation.gif" width="25">
+<br> I'm an enthusiastic 19-year-old student and self-taught developer from India, currently pursuing my B.Tech CSE at [Geeta University](https://geetauniversity.edu.in). <img src="./assets/graduation.gif" width="25">
 <br> Exploring the fascinating realms of technology and creating exciting projects is my passion! 💻
 
 <!-- Badges -->
@@ -29,19 +29,19 @@ class HumanBeing:
     def __init__(self):
         self.name = "Kaushik Goswami"
         self.pronouns = ["He", "Him"]
-        self.role = "Student & Developer"
-        self.code = ["Python", "Javascript", "CSS", "HTML"]
+        self.role = "Full-Stack Developer"
+        self.code = ["Python", "Javascript", "Typescript", "PHP"]
         self.tools = ["VSCode", "Git", "GitHub"]
         self.askMeAbout = ["tech", "linux", "web development", "discord", "anime"]
         self.technologies = {
             "frontEnd": ["HTML", "CSS", "JavaScript"],
             "backEnd": ["Python", "NodeJS"],
             "databases": ["MongoDB", "MySQL"],
-            "cloud": ["Heroku", "AWS"],
-            "frameworks": ["Bootstrap", "ReactJS", "Flask", "Django"],
+            "cloud": ["Heroku", "AWS", "Azure"],
+            "frameworks": ["Bootstrap", "ReactJS", "NextJS", "Vite", "Flask", "Django"],
             "misc": ["Ubuntu", "Raspberry Pi", "Arduino"]
         }
-        self.currentFocus = "Learning NextJS and exploring AI 🚀"
+        self.currentFocus = "Data Structures and Algorithms with Python 🚀"
         self.funFact = "🌼|| लगाव ही पीड़ा है, करुणा ही क्रूरता है और अंत ही आरंभ है ||🌼"
 
     def say_hi(self):
