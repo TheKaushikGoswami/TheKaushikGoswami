@@ -4,7 +4,7 @@
 <!-- Short Introduction -->
 
 Welcome to my coding world! 🚀
-<br> I'm an enthusiastic 19-year-old student and self-taught developer from India, currently pursuing my B.Tech CSE at [Geeta University](https://geetauniversity.edu.in). <img src="./assets/graduation.gif" width="25">
+<br> I'm an enthusiastic 20-year-old student and self-taught developer from India, currently pursuing my B.Tech CSE at [Geeta University](https://geetauniversity.edu.in). <img src="./assets/graduation.gif" width="25">
 <br> Exploring the fascinating realms of technology and creating exciting projects is my passion! 💻
 
 <!-- Badges -->
